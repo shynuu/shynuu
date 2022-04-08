@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi Folks 👋
+
+---
+
+I am a network researcher and passionate about new technologies, the convergence of software, virtualization with networking is the best today.
+
+I love to think about the future of the internet, design new protocols, always keep up to date and develop new networking technologies.
+
+Currently working on 5G and Satellite Networks, both networks are amazing but more powerful integrated together !
+
+At my free time, I like to contribute to projects which benefit the community and of course take a hike :smile:
 
 <!--
 **shynuu/shynuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
