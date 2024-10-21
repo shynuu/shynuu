@@ -2,13 +2,13 @@
 
 ---
 
-I am a network researcher and passionate about new technologies, the convergence of software, virtualization with networking is the best today.
+I am a network researcher and passionate about new technologies, the convergence of software, and virtualization with networking is the best today.
 
-I love to think about the future of the internet, design new protocols, always keep up to date and develop new networking technologies.
+I love to think about the future of the internet, design new protocols, always keep up to date, and develop new networking technologies.
 
-Currently working on 5G and Satellite Networks, both networks are amazing but more powerful integrated together !
+Currently working on 6G and Satellite Networks, both networks are amazing but more powerfully integrated! QKD is also nice but they still require more work...
 
-At my free time, I like to contribute to projects which benefit the community and of course take a hike :smile:
+In my free time, I like to contribute to projects that benefit the community and of course, take a hike :smile:
 
 <!--
 **shynuu/shynuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
